@@ -1,0 +1,1 @@
+/home/sty16/unix/shell_project/test.txt
