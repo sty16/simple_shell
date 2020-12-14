@@ -1,3 +1,6 @@
+项目详解：https://abeltian.top/2020/12/14/a%20simple%20shell/
+可执行指令
+
 cd /home
 /bin/pwd 
 cd /home/sty16
